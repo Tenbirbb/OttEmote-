@@ -1,7 +1,7 @@
 # OttEmote-
 OttEmote+ is an updated and enhanced parameter menu mod for the Awtter Model.
 
-NOTICE: MUST FOLLOW THIS TUTORIAL FOR THE HAIR CHANGES TO WORK: https://youtu.be/lxJ-61Xnyhw
+NOTICE: [MUST FOLLOW THIS TUTORIAL FOR THE HAIR CHANGES TO WORK](https://youtu.be/lxJ-61Xnyhw)
 
 Newest Version: [OttEmote+v1.0](https://github.com/Tenbirbb/OttEmote-/raw/main/OttEmote%2Bv1.0.unitypackage)
 
