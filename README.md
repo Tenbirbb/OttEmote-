@@ -12,6 +12,8 @@ Features (V.1.0):
 * Bald Toggle
 * New icons for most of the menu 
 
+![Icon Previews](/icon.png)
+
 Note:
 * 1st material slot is the default materials, it will be what your awtter defaults to if you dont edit the radials
 * For Eye Toggle to work, you must over lay the Star Layer on your eye textures
